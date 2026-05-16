@@ -1,0 +1,7 @@
+# executables
+a.out
+*.out
+*.exe
+
+# macOS files
+.DS_Store
